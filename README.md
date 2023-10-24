@@ -1,9 +1,7 @@
 ### Hi there 👋
 ### I'm Victor Freitas.
 
-- 🌱 Estudando Java and C++
-- 📫 Contate-me no email: victorb.freitas12@gmail.com
-- 😄 Pronouns: ele/dele
+<p>Student and Front-End Developer</p>
 
 📄Know about my experiences [LinkedIn](https://www.linkedin.com/in/victor-freitas-b64089240/)
 
